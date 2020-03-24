@@ -1,6 +1,6 @@
 #PRIMEIRA
 
--APRE
+-aprendemos sobre git
 
 
 
@@ -8,3 +8,5 @@
 #segunda aula
 -branch
 -chackout
+
+#
