@@ -1,3 +1,4 @@
- arqu texto correçaõ 
+1 arqu texto correçaõ 
 aula sobre git 
 aprendendo um pouco mais
+muito bom 10 commit
